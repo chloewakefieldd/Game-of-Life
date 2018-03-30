@@ -1,7 +1,7 @@
 README
 
- - LEFT_CLICK:     On any cell to set that cell to alive
- - RIGHT_CLICK:    On any cell to reset that cell
+ - LEFT_CLICK:     On any cell to set that cell to [alive]
+ - RIGHT_CLICK:    On any cell to reset that cell to [not-alive]
  - ENTER or SPACE: Next timestep
  - ESC:            Exit
 
